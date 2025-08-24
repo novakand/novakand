@@ -68,5 +68,5 @@ I specialize in building **web applications, backend services, and data visualiz
 
 ## 📫 Contact
 - GitHub: [github.com/novakand](https://github.com/novakand)  
-- Email: *your email here*  
+- Email: appexten@gmail.com  
 - Patreon: *coming soon*  
