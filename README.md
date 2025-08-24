@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Andrey (novakand)
 
-<!--
-**novakand/novakand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I provide freelance services in:
+- Web development
+- UI/UX design
 
-Here are some ideas to get you started:
+🌍 I work with clients all over the world.  
+⚡ Tech stack: Angular, NestJS, TypeScript, Tailwind, PrimeNG, PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My projects
+- [Portfolio Website](https://github.com/novakand/portfolio)
+- [UI Components Library](https://github.com/novakand/ui-library)
+- [Design Templates](https://github.com/novakand/design-templates)
+
+## 📫 Contact
+- Email: yourmail@example.com  
+- Patreon: *coming soon*  
+- LinkedIn / Behance: [links here]
