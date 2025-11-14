@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Andrey (novakand)
+# 👋 Hi, I’m Andrey 
 
 💻 **Full Stack Developer**  
 🌍 Working with clients worldwide  
